@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there! 👋 I'm Muhammad Talha
 
-<!--
-**talha-techs/talha-techs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a junior Computer Science student at the **University of Engineering and Technology (UET), Lahore**.
 
-Here are some ideas to get you started:
+🚀 Currently setting up this GitHub profile as my **official student/education account** to manage academic collaborations, coursework, and learning projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 A bit about me:
+
+- 💡 Passionate about software development, problem solving, and learning modern tech tools.
+- 🔧 Exploring web development, data structures, and DevOps basics.
+- 📚 Always working on improving my GitHub workflow and open source contributions.
+
+---
+
+## 🗂 Where’s all my work?
+
+Most of my active projects, coding experiments, and open source contributions are hosted on my second (main) GitHub account:
+
+👉 **[@mtalha1501](https://github.com/mtalha1501)**  
+*(You can replace this with your actual main account URL)*
+
+---
+
+## 🌱 Currently Learning:
+- Version control with Git & GitHub (in depth)
+- Building projects using React & Node.js
+- System design and backend principles
+- Basics of containerization (Docker)
+
+---
+
+## 🤝 Connect with Me
+- 💬 Feel free to reach out for student collabs, coding sessions, or GitHub help!
+- 📫 Email: yourname@example.com *(replace with actual student email if you want)*
+
+---
+
+Thanks for stopping by! 😊
