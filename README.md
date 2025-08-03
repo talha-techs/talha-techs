@@ -33,7 +33,7 @@ Most of my active projects, coding experiments, and open source contributions ar
 
 ## 🤝 Connect with Me
 - 💬 Feel free to reach out for student collabs, coding sessions, or GitHub help!
-- 📫 Email: yourname@example.com *(replace with actual student email if you want)*
+- 📫 Email: 2023cs169@student.uet.edu.pk *(replace with actual student email if you want)*
 
 ---
 
