@@ -19,8 +19,6 @@
 Most of my active projects, coding experiments, and open source contributions are hosted on my second (main) GitHub account:
 
 👉 **[@mtalha1501](https://github.com/mtalha1501)**  
-*(You can replace this with your actual main account URL)*
-
 ---
 
 ## 🌱 Currently Learning:
@@ -33,7 +31,7 @@ Most of my active projects, coding experiments, and open source contributions ar
 
 ## 🤝 Connect with Me
 - 💬 Feel free to reach out for student collabs, coding sessions, or GitHub help!
-- 📫 Email: 2023cs169@student.uet.edu.pk *(replace with actual student email if you want)*
+- 📫 Email: 2023cs169@student.uet.edu.pk 
 
 ---
 
